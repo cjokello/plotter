@@ -1,7 +1,7 @@
 Plotter 
 ========
 
-A simple CLI graphing tool written in Python using [Click](https://click.palletsprojects.com/en/8.1.x/) to display bar graphs in your terminal.
+A simple CLI graphing tool written in Python using [Click](https://click.palletsprojects.com/en/8.1.x/){:target="_blank"}to display bar graphs in your terminal.
 
 
 Instructions:
